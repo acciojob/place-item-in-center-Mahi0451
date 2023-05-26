@@ -1,8 +1,10 @@
 
 /* Your CSS Code here. */
-#container{
+#holder{
 	display:flex;
 	align-items:center;
 	justify-content:center;
 	
 }
+
+
